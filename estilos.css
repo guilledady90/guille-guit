@@ -1,4 +1,9 @@
 html {
   background-color: black;
   color: white;
+  background-color: burlywood;
+}
+
+body {
+  text-align: center;
 }
